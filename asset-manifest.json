@@ -1,7 +1,7 @@
 {
   "main.css": "/pokebeast/static/css/main.8ece54df.chunk.css",
-  "main.js": "/pokebeast/static/js/main.cb17fdef.chunk.js",
-  "main.js.map": "/pokebeast/static/js/main.cb17fdef.chunk.js.map",
+  "main.js": "/pokebeast/static/js/main.b3b86f01.chunk.js",
+  "main.js.map": "/pokebeast/static/js/main.b3b86f01.chunk.js.map",
   "static/css/1.5aba4d23.chunk.css": "/pokebeast/static/css/1.5aba4d23.chunk.css",
   "static/js/1.93a500d1.chunk.js": "/pokebeast/static/js/1.93a500d1.chunk.js",
   "static/js/1.93a500d1.chunk.js.map": "/pokebeast/static/js/1.93a500d1.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.8ece54df.chunk.css.map": "/pokebeast/static/css/main.8ece54df.chunk.css.map",
   "static/css/1.5aba4d23.chunk.css.map": "/pokebeast/static/css/1.5aba4d23.chunk.css.map",
   "index.html": "/pokebeast/index.html",
-  "precache-manifest.3fc4b0dd8fe4d32581af2750a02e4b70.js": "/pokebeast/precache-manifest.3fc4b0dd8fe4d32581af2750a02e4b70.js",
+  "precache-manifest.b63bec179c207279bc8c6259519e39b2.js": "/pokebeast/precache-manifest.b63bec179c207279bc8c6259519e39b2.js",
   "service-worker.js": "/pokebeast/service-worker.js"
 }
