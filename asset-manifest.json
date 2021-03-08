@@ -1,15 +1,15 @@
 {
-  "main.css": "/pokebeast/static/css/main.8ec08752.chunk.css",
-  "main.js": "/pokebeast/static/js/main.fb45a1cf.chunk.js",
-  "main.js.map": "/pokebeast/static/js/main.fb45a1cf.chunk.js.map",
+  "main.css": "/pokebeast/static/css/main.6a422d5f.chunk.css",
+  "main.js": "/pokebeast/static/js/main.43ad35a2.chunk.js",
+  "main.js.map": "/pokebeast/static/js/main.43ad35a2.chunk.js.map",
   "static/css/1.5aba4d23.chunk.css": "/pokebeast/static/css/1.5aba4d23.chunk.css",
   "static/js/1.93a500d1.chunk.js": "/pokebeast/static/js/1.93a500d1.chunk.js",
   "static/js/1.93a500d1.chunk.js.map": "/pokebeast/static/js/1.93a500d1.chunk.js.map",
   "runtime~main.js": "/pokebeast/static/js/runtime~main.35052b56.js",
   "runtime~main.js.map": "/pokebeast/static/js/runtime~main.35052b56.js.map",
-  "static/css/main.8ec08752.chunk.css.map": "/pokebeast/static/css/main.8ec08752.chunk.css.map",
+  "static/css/main.6a422d5f.chunk.css.map": "/pokebeast/static/css/main.6a422d5f.chunk.css.map",
   "static/css/1.5aba4d23.chunk.css.map": "/pokebeast/static/css/1.5aba4d23.chunk.css.map",
   "index.html": "/pokebeast/index.html",
-  "precache-manifest.fc0d67964653b58eee396b1d7f13b99f.js": "/pokebeast/precache-manifest.fc0d67964653b58eee396b1d7f13b99f.js",
+  "precache-manifest.e8aa4faa4da024a18b959d581fbfecdd.js": "/pokebeast/precache-manifest.e8aa4faa4da024a18b959d581fbfecdd.js",
   "service-worker.js": "/pokebeast/service-worker.js"
 }
