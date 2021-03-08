@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b3b86f0175ffd6c975f5",
+    "revision": "8e3cd845891b32f5cca9",
     "url": "/pokebeast/static/css/main.8ece54df.chunk.css"
   },
   {
-    "revision": "b3b86f0175ffd6c975f5",
-    "url": "/pokebeast/static/js/main.b3b86f01.chunk.js"
+    "revision": "8e3cd845891b32f5cca9",
+    "url": "/pokebeast/static/js/main.8e3cd845.chunk.js"
   },
   {
     "revision": "93a500d176d0ee07322b",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/pokebeast/static/js/runtime~main.35052b56.js"
   },
   {
-    "revision": "185b4d753b4fec5fe1225aaf971dc3a4",
+    "revision": "3273217481a11083a7a964e9d4c89b12",
     "url": "/pokebeast/index.html"
   }
 ];
